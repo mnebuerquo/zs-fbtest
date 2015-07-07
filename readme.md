@@ -2,9 +2,11 @@
 
 ## Facebook API Demo
 
-This is a programming test given to people applying for a job at Zipscene, LLC. The test took me approximately 7 hours to complete. It initially ran on a nodejitsu server, but now runs on an AWS EC2instance.
+This is a programming test given to people applying for a job at Zipscene, LLC (http://www.zipscene.com/). The test took me approximately 7 hours to complete. It initially ran on a nodejitsu server, but now runs on an AWS EC2instance.
 
 http://fbtest.wheresshermansbus.com
+
+As far as I know, Zipscene no longer uses this test for filtering applicants.
 
 ## Open Source
 
@@ -12,7 +14,7 @@ This project is now an open source demo. The only changes I made to the project 
 
 The config.js file is not in git. Instead there is a config.example.js which can be copied and modified to add the appropriate secret.
 
-## Instructions
+## Instructions From Zipscene
 
 ### Facebook User App
 
